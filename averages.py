@@ -1,5 +1,5 @@
 """
-    Made after discussion on what would be the correct way to calculate the average height 
+    Made after discussion on what would be the correct way to calculate the average height of world population.
     - Would it be better to take a new round av measure everyone, or would it be enough to use
         the average from each country?
 
